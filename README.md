@@ -35,7 +35,7 @@ print(mylist)             # Output: [1, 2, 3, 4]
 print(mylist[2])          # Output: 3
 mylist.remove(2)
 print(len(mylist))        # Output: 3
-
+```
 ### Project Structure :
 
 AbstractList – defines all methods that must be implemented
@@ -46,3 +46,4 @@ Manual_list.ipynb – Jupyter notebook demonstrating all functionalities
 
 ### Author
 Yegupati Ragini
+
