@@ -46,4 +46,4 @@ Manual_list.ipynb – Jupyter notebook demonstrating all functionalities
 
 ### Author
 Yegupati Ragini
-
+LinkedIN : https://www.linkedin.com/in/yegupati-ragini/
